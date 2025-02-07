@@ -1,4 +1,4 @@
-# TSCE
+# TSCE-LLM
 TSCE-LLM: A large language model text summarization capabilities evaluator
 
 This project evaluates Chinese text summarization capabilities across LLM models like Qwen2-VL-72B, DeepSeek-V3, DeepSeek-R1, and gpt-4o using standardized rules. It supports evaluation via online API and local Ollama integration.
